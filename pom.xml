@@ -27,7 +27,7 @@
 					<configuration>
 
 						<suiteXmlFiles>
-							<suiteXmlFile>testng1.xml</suiteXmlFile>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
 							<suiteXmlFile>testng1.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>testng_crossBrowser_parallel.xml</suiteXmlFile> -->
 
